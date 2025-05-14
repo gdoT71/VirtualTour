@@ -1,4 +1,6 @@
 {
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF",
  "icons": [
   {
@@ -38,7 +40,5 @@
   }
  ],
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "name": "The Green View",
- "start_url": "index.htm"
+ "name": "The Green View"
 }
